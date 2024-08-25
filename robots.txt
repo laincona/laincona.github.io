@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laincona.github.io/sitemap.html.gz
+Sitemap: https://laincona.github.io/app/sitemap.html.gz
+Sitemap: https://laincona.github.io/assets/sitemap.html.gz
+Sitemap: https://laincona.github.io/css/sitemap.html.gz
+Sitemap: https://laincona.github.io/includes/sitemap.html.gz
+Sitemap: https://laincona.github.io/item/sitemap.html.gz
+Sitemap: https://laincona.github.io/src/sitemap.html.gz
